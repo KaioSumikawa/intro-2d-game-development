@@ -31,7 +31,7 @@ O repositório segue uma organização padronizada para facilitar a manutenção
 
 - **/assets** → Imagens (PNG) e áudios (WAV/MP3).
 - **/scenes** → Cenas principais e subcenas do jogo.
-- **/scripts** # Código-fonte em GDScript.
+- **/scripts** → Código-fonte em GDScript.
 - **/prefabs** → Cenas reutilizáveis (objetos instanciáveis).
 - **project.godot** → Arquivo de configuração global do projeto.
 
@@ -42,7 +42,7 @@ Para replicar o ambiente e executar o projeto localmente:
 1.  Instale o **Godot Engine 4.x** ([godotengine.org](https://godotengine.org)).
 2.  Clone este repositório:
     ```bash
-    git clone [https://github.com/kaio-sumikawa/intro-2d-game-development.git](https://github.com/kaio-sumikawa/intro-2d-game-development.git)
+    git clone https://github.com/kaio-sumikawa/intro-2d-game-development.git
     ```
 3.  No Gerenciador de Projetos do Godot, clique em **Importar**.
 4.  Selecione o arquivo `project.godot` na pasta clonada.
